@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\bin\Debug\netstandard2.0\GoTentor.deps.json
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\bin\Debug\netstandard2.0\GoTentor.dll
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\bin\Debug\netstandard2.0\ref\GoTentor.dll
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\bin\Debug\netstandard2.0\GoTentor.pdb
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.AssemblyInfo.cs
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.dll
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\obj\Debug\netstandard2.0\ref\GoTentor.dll
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.pdb
+C:\Users\Asus\source\repos\GoTentor\GoTentor\GoTentor\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
