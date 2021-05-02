@@ -15,3 +15,39 @@ G:\Project GoTentor\Apps\GoTentor\GoTentor\obj\Debug\netstandard2.0\XamlC.stamp
 G:\Project GoTentor\Apps\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.dll
 G:\Project GoTentor\Apps\GoTentor\GoTentor\obj\Debug\netstandard2.0\ref\GoTentor.dll
 G:\Project GoTentor\Apps\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.pdb
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.csprojAssemblyReference.cache
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.AssemblyInfoInputs.cache
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.AssemblyInfo.cs
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.csproj.CoreCompileInputs.cache
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.dll
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\ref\GoTentor.dll
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.pdb
+E:\Backup 4.2021\GoTentor\GoTentor\bin\Debug\netstandard2.0\GoTentor.deps.json
+E:\Backup 4.2021\GoTentor\GoTentor\bin\Debug\netstandard2.0\GoTentor.dll
+E:\Backup 4.2021\GoTentor\GoTentor\bin\Debug\netstandard2.0\ref\GoTentor.dll
+E:\Backup 4.2021\GoTentor\GoTentor\bin\Debug\netstandard2.0\GoTentor.pdb
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Backup 4.2021\GoTentor\GoTentor\obj\Debug\netstandard2.0\Views\OpsiTentor.xaml.g.cs
+C:\Users\user\Downloads\GoTentor\GoTentor\bin\Debug\netstandard2.0\GoTentor.deps.json
+C:\Users\user\Downloads\GoTentor\GoTentor\bin\Debug\netstandard2.0\GoTentor.dll
+C:\Users\user\Downloads\GoTentor\GoTentor\bin\Debug\netstandard2.0\ref\GoTentor.dll
+C:\Users\user\Downloads\GoTentor\GoTentor\bin\Debug\netstandard2.0\GoTentor.pdb
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.csprojAssemblyReference.cache
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\Views\OpsiTentor.xaml.g.cs
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.AssemblyInfo.cs
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.dll
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\ref\GoTentor.dll
+C:\Users\user\Downloads\GoTentor\GoTentor\obj\Debug\netstandard2.0\GoTentor.pdb

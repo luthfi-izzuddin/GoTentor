@@ -6,7 +6,7 @@ namespace GoTentor
 {
     class Hari
     {
-        public string Hari;
+        public string hari;
 
         public void showHari()
         {

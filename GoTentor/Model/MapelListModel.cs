@@ -8,6 +8,5 @@ namespace GoTentor.Model
     {
         public string Nama { get; set; }
         public string Image { get; set; }
-
     }
 }

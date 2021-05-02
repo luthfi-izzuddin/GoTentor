@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GoTentor
 {
-    class tentor
+    class Tentor
     {
         public string namaTentor;
         public string riwayatPendidikan;

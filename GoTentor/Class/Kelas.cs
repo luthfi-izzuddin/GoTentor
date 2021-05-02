@@ -6,7 +6,7 @@ namespace GoTentor
 {
     public class Kelas
     {
-        public int Kelas;
+        public int kelas;
 
         void showKelas()
         {
